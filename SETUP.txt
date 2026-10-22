@@ -1,0 +1,17 @@
+GITHUB PAGES SETUP
+
+1. Extract this ZIP.
+2. Open your GitHub repository. Click Add file > Upload files.
+3. Upload the CONTENTS of the extracted folder: index.html, app.js, records.js,
+   flair.css, volume-ii.css, assets/, v1/, and .nojekyll (if visible).
+   index.html must appear directly in the repository, not inside another folder.
+   Do not upload the ZIP itself as the website.
+4. Commit the files.
+5. Settings > Pages > Build and deployment > Source: Deploy from a branch.
+6. Choose main and / (root), then Save.
+7. Wait for the Pages deployment to finish; open Visit site in Settings > Pages.
+
+V2 is the main page. V1 is available at v1/.
+Images, textures, fonts, CSS, and JavaScript are all included.
+No npm installation, build step, or API key is needed.
+Spotify needs internet access.
